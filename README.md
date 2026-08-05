@@ -6,11 +6,11 @@
 
 A modern, performant, and fully responsive developer portfolio engineered to showcase computer science projects, technical competencies, and contact information. Built with semantic HTML5, custom modern CSS (with native Dark Mode support), and vanilla JavaScript.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview+Screenshot) <!-- Replace with a screenshot of your live site -->
+![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview+Screenshot) 
 
 ## 🚀 Live Demo
 
-Check out the live deployment here: **[trish-kabudura.vercel.app](https://trish-kabudura.vercel.app)** *(Replace with your actual Vercel link)*
+Check out the live deployment here: **[trish-kabudura.vercel.app](first-webpage-gofa.vercel.app)
 
 ---
 
