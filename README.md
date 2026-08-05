@@ -10,7 +10,7 @@ A modern, performant, and fully responsive developer portfolio engineered to sho
 
 ## 🚀 Live Demo
 
-Check out the live deployment here: **[trish-kabudura.vercel.app](first-webpage-gofa.vercel.app)
+Check out the live deployment here: **[first-webpage-gofa.vercel.app]
 
 ---
 
